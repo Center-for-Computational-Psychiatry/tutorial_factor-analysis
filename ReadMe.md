@@ -9,4 +9,4 @@ Additional reading:
 
 + Wise, T., Robinson, O. J., & Gillan, C. M. (2023). [Identifying transdiagnostic mechanisms in mental health using computational factor modeling](https://www.sciencedirect.com/science/article/pii/S0006322322016614). Biological Psychiatry, 93(8), 690-703.
 
-+ Zorowitz, S., Solis, J., Niv, Y. et al. [Inattentive responding can induce spurious associations between task behaviour and symptom measures] (https://www.nature.com/articles/s41562-023-01640-7). Nat Hum Behav (2023). https://doi.org/10.1038/s41562-023-01640-7
++ Zorowitz, S., Solis, J., Niv, Y. et al. [Inattentive responding can induce spurious associations between task behaviour and symptom measures](https://www.nature.com/articles/s41562-023-01640-7). Nat Hum Behav (2023). https://doi.org/10.1038/s41562-023-01640-7
